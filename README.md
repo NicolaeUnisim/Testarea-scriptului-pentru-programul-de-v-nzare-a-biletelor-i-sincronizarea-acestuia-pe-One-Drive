@@ -1,1 +1,2 @@
-# Testarea-scriptului-pentru-programul-de-v-nzare-a-biletelor-i-sincronizarea-acestuia-pe-One-Drive
+# Testarea-scriptului-pentru-programul-de-vanzare-a-biletelorsi-sincronizarea-acestuia-pe-One-Drive
+Fisierul dino19 TicketSALESTEstPrinterEXCPOS este un fisier ce contine in sine codul pentru un program folosit la vanzarea biletelor. CA scop a fost crearea bazei de date a biletelor vandute si sincronizarea acesteia pe One Drive ca ulterior in caz de prabusire a sistemului aceasta sa poata fi restabilita.
